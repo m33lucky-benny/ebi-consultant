@@ -27,7 +27,7 @@ navbar-links:
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  # Author's home: "https://deanattali.com"
+  # Author's home: "https://consultant.ebiya.sg"
 
 ################
 # --- Logo --- #
@@ -54,8 +54,8 @@ round-avatar: true
 social-network-links:
   email: "bennyyuen@consultant.com"
   rss: true # remove this line if you don't want to show an RSS link at the bottom
-  # instagram: ""
-  whatsapp: 6589002228
+  instagram: key.play.pay
+  whatsapp: 65xxxxxxxxx
   telegram: ""
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
