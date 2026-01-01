@@ -22,6 +22,7 @@ author: ebiyaSG
 navbar-links:
   About Me: "about"
   Contact Us: "contact"
+  # Dev's home: "https://consultant.ebiya.sg"
 
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
